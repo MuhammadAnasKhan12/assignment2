@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MuhammadAnasKhan12/assignment2-jp.git/static/css/main.f6357bd4.css",
+    "main.js": "/MuhammadAnasKhan12/assignment2-jp.git/static/js/main.479e3ddc.js",
+    "static/js/787.7f831edb.chunk.js": "/MuhammadAnasKhan12/assignment2-jp.git/static/js/787.7f831edb.chunk.js",
+    "static/media/bg-home.jpg": "/MuhammadAnasKhan12/assignment2-jp.git/static/media/bg-home.54f33acfa5a76720d4d5.jpg",
+    "static/media/online-world.svg": "/MuhammadAnasKhan12/assignment2-jp.git/static/media/online-world.3a222d0d81af2676d844.svg",
+    "index.html": "/MuhammadAnasKhan12/assignment2-jp.git/index.html",
+    "main.f6357bd4.css.map": "/MuhammadAnasKhan12/assignment2-jp.git/static/css/main.f6357bd4.css.map",
+    "main.479e3ddc.js.map": "/MuhammadAnasKhan12/assignment2-jp.git/static/js/main.479e3ddc.js.map",
+    "787.7f831edb.chunk.js.map": "/MuhammadAnasKhan12/assignment2-jp.git/static/js/787.7f831edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6357bd4.css",
+    "static/js/main.479e3ddc.js"
+  ]
+}
